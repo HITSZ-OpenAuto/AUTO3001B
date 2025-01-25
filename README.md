@@ -1,6 +1,6 @@
 # AUTO3001B - 自动控制理论B
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86(2025 春之前)-5-moccasin)  ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86(2025 春开始)-4.5-moccasin)
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/学分（2025春之前）-5-moccasin)  ![Static Badge](https://img.shields.io/badge/学分（2025春开始）-4.5-moccasin)
 
 <div align="left">
 <figure>
