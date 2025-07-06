@@ -1,0 +1,342 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765698,
+    "hash": "8f5adfc56b2758c9143970caf9af71fcfcface56"
+  },
+  ".hoa/worktree.json": {
+    "size": 10548,
+    "time": 1751764329,
+    "hash": "2bddc1d6de6f7916a3e6f1f394cabf4fe5b918ed"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1715742839,
+    "hash": "70cfbce2174424cdcaee5f10365c7d2cbab4de69"
+  },
+  "README.md": {
+    "size": 2678,
+    "time": 1737818249,
+    "hash": "c18d5488279ef48f53821c664060e0da2c211cdb"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737691641,
+    "hash": "38adeea2eeb4243e203dc0cf41bf719c395dac80"
+  },
+  "assignments/2023/1/第一次作业.pdf": {
+    "size": 381020,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/1/自动控制原理B第一次作业答案.pdf": {
+    "size": 852926,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/2/第二次作业.pdf": {
+    "size": 774103,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/2/自动控制原理B第二次作业答案.pdf": {
+    "size": 1250106,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/3/第三次作业.pdf": {
+    "size": 258050,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/3/自动控制原理B第三次作业答案.pdf": {
+    "size": 672896,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/4/第四次作业.txt": {
+    "size": 60,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/4/自动控制原理B第四次作业答案.pdf": {
+    "size": 969279,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/5/第五次作业.pdf": {
+    "size": 140781,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/5/自动控制原理B第五次作业答案.pdf": {
+    "size": 3679532,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/6/第六次作业.pdf": {
+    "size": 151364,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/6/自动控制原理B第六次作业答案.pdf": {
+    "size": 5519827,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/7/第七次作业.pdf": {
+    "size": 602421,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/7/自动控制原理B第七次作业答案.pdf": {
+    "size": 6979768,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/8/第八次作业.pdf": {
+    "size": 1029220,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/8/自动控制原理B第八次作业答案.pdf": {
+    "size": 17137449,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/9/1.jpg": {
+    "size": 29198,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/9/2.jpg": {
+    "size": 15698,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/9/bode.jpg": {
+    "size": 50866,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/9/第九次作业.pdf": {
+    "size": 1008307,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2023/9/自动控制原理B第九次作业答案.pdf": {
+    "size": 22768762,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业1/自控原理第一次作业.pdf": {
+    "size": 121413,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业2/自控原理第二次作业.pdf": {
+    "size": 129925,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业3/自控原理第三次作业.pdf": {
+    "size": 121125,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业4/hw 1.pdf": {
+    "size": 200217,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业5/hw 2.pdf": {
+    "size": 135210,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业6/hw 3.pdf": {
+    "size": 603060,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业7/hw 4.pdf": {
+    "size": 1026774,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2025/作业8/hw 5.pdf": {
+    "size": 850856,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737691641,
+    "hash": "38adeea2eeb4243e203dc0cf41bf719c395dac80"
+  },
+  "exams/2022/习题/2022-补考前复习题1.pdf": {
+    "size": 5233159,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2022/习题/2022-补考前复习题2.pdf": {
+    "size": 2193057,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2022/解答/2022-补考前复习题1-参考解答.pdf": {
+    "size": 1446041,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2022/解答/2022-补考前复习题2-参考解答.pdf": {
+    "size": 1587765,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2022/解答/复习题1-解答-psp.pdf": {
+    "size": 3197827,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2022/解答/复习题2-解答-psp.pdf": {
+    "size": 2613371,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/2024 自动控制理论B试题回忆版(V1.0).pdf": {
+    "size": 375870,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/2024 自动控制理论B试题回忆版-解答-psp.pdf": {
+    "size": 4188921,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/自组模拟试卷_Abigzhe/模拟1.pdf": {
+    "size": 1090014,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/自组模拟试卷_Abigzhe/模拟2.pdf": {
+    "size": 663941,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/自组模拟试卷_Abigzhe/模拟3.pdf": {
+    "size": 546278,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/自组模拟试卷_Abigzhe/解答/模拟1-psp.pdf": {
+    "size": 3045903,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/自组模拟试卷_Abigzhe/解答/模拟2-psp.pdf": {
+    "size": 3118801,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "exams/2024/自组模拟试卷_Abigzhe/解答/模拟3-psp.pdf": {
+    "size": 2335118,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737691641,
+    "hash": "38adeea2eeb4243e203dc0cf41bf719c395dac80"
+  },
+  "labs/2022_LMH/auto_modify_parameter.m": {
+    "size": 950,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2022_LMH/上机2.pdf": {
+    "size": 1370621,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2022_LMH/实验1.pdf": {
+    "size": 5765856,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2022_LMH/实验2.pdf": {
+    "size": 866772,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2023_FWI/自动控制原理B-上机2.pdf": {
+    "size": 1840532,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2023_FWI/自动控制原理B第一次实验.pdf": {
+    "size": 790011,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2023_Tintin/上机实验1 线性系统的频率校正设计实验报告-watermark.pdf": {
+    "size": 825772,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2023_Tintin/上机实验二 相平面分析报告-watermark.pdf": {
+    "size": 3807244,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2023_Tintin/实验1 磁悬浮根轨迹校正报告-watermark.pdf": {
+    "size": 539454,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2023_Tintin/实验2 直线一级电机倒立摆-watermark.pdf": {
+    "size": 1157047,
+    "time": 1719833764,
+    "hash": "5270fdd0f307a1be1246a206a508d51c25109dee"
+  },
+  "labs/2024_WJD/2024_WJD_上机一.pdf": {
+    "size": 429862,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737691641,
+    "hash": "38adeea2eeb4243e203dc0cf41bf719c395dac80"
+  },
+  "notes/2022-自控理论B-校正.pdf": {
+    "size": 10592263,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "notes/2022-自控理论b考试复习.pdf": {
+    "size": 2125336,
+    "time": 1737815155,
+    "hash": "fbc40c593948fd4a430bf04ab7a028ac9abbc4eb"
+  },
+  "notes/2023-自控理论B_Tintin.pdf": {
+    "size": 13034277,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "notes/2024-复习_Abigzhe.pdf": {
+    "size": 19018574,
+    "time": 1750989974,
+    "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "notes/2025-自控理论B笔记_November_in_North.pdf": {
+    "size": 58325974,
+    "time": 1751099862,
+    "hash": "7c10fec724b42d627c97c635cedf5b99d58b2b32"
+  },
+  "tag.txt": {
+    "size": 71,
+    "time": 1715742839,
+    "hash": "70cfbce2174424cdcaee5f10365c7d2cbab4de69"
+  }
+}
