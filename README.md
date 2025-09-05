@@ -1,17 +1,15 @@
 # AUTO3001B - 自动控制理论B
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/学分（2025春之前）-5-moccasin)  ![Static Badge](https://img.shields.io/badge/学分（2025春开始）-4.5-moccasin)
+![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
+![学分（2025春之前）](https://img.shields.io/badge/学分（2025春之前）-5-moccasin)
+![学分（2025春开始）](https://img.shields.io/badge/学分（2025春开始）-4.5-moccasin)
 
-<div align="left">
-<figure>
-  <img alt="成绩构成(21级)" src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(21%E7%BA%A7)-gold">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-12%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E5%87%BA%E5%8B%A4-5%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C-5%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-8%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat">
-</figure>
-</div>
+![成绩构成(21级)](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(21%E7%BA%A7)-gold)
+![作业 12%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-12%25-wheat)
+![出勤 5%](https://img.shields.io/badge/%E5%87%BA%E5%8B%A4-5%25-wheat)
+![上机实验 5%](https://img.shields.io/badge/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C-5%25-wheat)
+![实验 8%](https://img.shields.io/badge/%E5%AE%9E%E9%AA%8C-8%25-wheat)
+![期末考试 70%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat)
 
 
 ## 授课教师
