@@ -1,0 +1,201 @@
+ID: "AUTO3001B"
+SimilarID: []
+Name: "自动控制理论B"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: [ "自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "AUTO3001B"
+    CourseName: "自动控制理论B"
+    Credit: "5.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "12"
+      - Name: "出勤"
+        Percentage: "5"
+      - Name: "上机实验"
+        Percentage: "5"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2020_2021"
+        Name: [ "自动化", "自动化（第二学位）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: ""
+    CourseID: "AUTO3001B"
+    CourseName: "自动控制理论B"
+    Credit: "5.0"
+    CourseHour: "80.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "12"
+      - Name: "出勤"
+        Percentage: "5"
+      - Name: "上机实验"
+        Percentage: "5"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2021_2022"
+        Name: [ "自动化", "自动化（第二学位）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "AUTO3001B"
+    CourseName: "自动控制理论B"
+    Credit: "5.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "12"
+      - Name: "出勤"
+        Percentage: "5"
+      - Name: "上机实验"
+        Percentage: "5"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2022_2023"
+        Name: [ "自动化", "自动化（第二学位）" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "AUTO3001B"
+    CourseName: "自动控制理论B"
+    Credit: "5.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "12"
+      - Name: "出勤"
+        Percentage: "5"
+      - Name: "上机实验"
+        Percentage: "5"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2023_2024"
+        Name: [ "自动化（第二学士学位）", "自动化" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "AUTO3001B"
+    CourseName: "自动控制理论B"
+    Credit: "5.0"
+    CourseHour: "80.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "12"
+      - Name: "出勤"
+        Percentage: "5"
+      - Name: "上机实验"
+        Percentage: "5"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2024_2025"
+        Name: [ "自动化", "null" ]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "必修"
+    CourseID: "AUTO3001B"
+    CourseName: "自动控制理论B"
+    Credit: "4.5"
+    CourseHour: "72.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "12"
+      - Name: "出勤"
+        Percentage: "5"
+      - Name: "上机实验"
+        Percentage: "5"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "70"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
