@@ -1,0 +1,94 @@
+course_name = "自动控制理论B"
+repo_type = "normal"
+course_code = "AUTO3001B"
+
+description = "自动控制理论 A 主要学习控制系统的分析（给控制系统分析性能），而自动控制理论 B 主要学习控制系统的综合（给性能指标设计控制器）。"
+
+[[lecturers]]
+name = "吴爱国"
+
+[[lecturers.reviews]]
+content = """
+授课认真，讲解细致，按步骤演算各校正过程。
+频率校正部分的思路较为新颖，值得一听。
+自编讲义（有较多错误，课件修正了一部分），课件中图片清晰美观（矢量图）。
+仅看课件不一定看得懂（有些页面只有图），需要结合听课来理解。
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-06" }
+
+[[lecturers]]
+name = "许鋆"
+
+[[lecturers.reviews]]
+content = """
+主要参考吴爱国老师的讲义，但对错误和含糊之处做了仔细修订。
+讲解清晰，板书美观但字体较小，建议坐前排。
+考勤遵照吴老师意见，不同年份强度不同（23春强度高，24春无）。
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-11" }
+
+
+[[sections]]
+title = "课程内容"
+
+[[sections.items]]
+content = """
+自控 B 的特点：
+
+1. 结果不唯一
+2. 存在近似处理
+3. 使用经验公式
+4. 设计过程具有主观性
+
+重点掌握：
+频域校正、离散校正、能控能观分解、状态空间综合、非线性系统描述函数法。这些都有标准公式和流程，多做作业题即可掌握。
+"""
+author = { name = "Maxwell Jay", link = "https://www.github.com/MaxwellJay256", date = "2025-08" }
+
+
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = """
+难度：中等。
+特点：
+20/21级情况：考试时间较紧，题型传统，不考深难题。
+2025年情况：考得很简单，无花样，高分段密集。
+重要提示：老师上课强调「不会考试」的点真的不考。
+"""
+[[sections.items.author]]
+name = "Oliver Wu"
+link = "https://www.github.com/OliverWu515"
+date = "2024-11"
+[[sections.items.author]]
+name = "Maxwell Jay"
+link = ""
+date = ""
+
+[[sections]]
+title = "关于实验"
+
+[[sections.items]]
+content = "实验占比约 8%（README 未提供更多细节）。"
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-06" }
+
+
+[[sections]]
+title = "学习建议"
+
+[[sections.items]]
+content = """
+自动化专业看家本领，内容稍显繁琐但不复杂。
+想读研的同学，在学状态空间时应打好线性代数基础，涉猎《线性系统理论》。
+频域法部分对考研同学较为有用。
+"""
+author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-11" }
+
+
+[[sections]]
+title = "讲义说明"
+
+[[sections.items]]
+content = "关于讲义：吴爱国老师曾印发自编讲义给学生（每班 2 本），但 2025 年未发放纸质讲义。讲义中存在部分错误，需对照课件或听课修正。"
+author = { name = "Maxwell Jay", link = "https://www.github.com/MaxwellJay256", date = "2025-08" }
