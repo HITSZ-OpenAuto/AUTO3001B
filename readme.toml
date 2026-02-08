@@ -20,8 +20,9 @@ content = """
 
 注:2025 年没有发放纸质讲义。
 """
-author = [{name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-06" },
-{name = "Maxwell Jay", link = "https://www.github.com/MaxwellJay256", date = "2025-08" }
+author = [
+  { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-06" },
+  { name = "Maxwell Jay", link = "https://www.github.com/MaxwellJay256", date = "2025-08" },
 ]
 
 [[lecturers]]
