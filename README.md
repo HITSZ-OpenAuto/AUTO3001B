@@ -1,13 +1,5 @@
 # AUTO3001B - 自动控制理论B
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业12%](https://img.shields.io/badge/作业-12%25-wheat)
-![出勤5%](https://img.shields.io/badge/出勤-5%25-wheat)
-![上机实验5%](https://img.shields.io/badge/上机实验-5%25-wheat)
-![实验8%](https://img.shields.io/badge/实验-8%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 自动控制理论 A 主要学习控制系统的分析（给控制系统分析性能），而自动控制理论 B 主要学习控制系统的综合（给性能指标设计控制器）。
 
