@@ -51,6 +51,12 @@
 
 > 文 / [Oliver Wu](https://www.github.com/OliverWu515)，2024-06
 
+<!-- TOML-ITEM: id="item-关于考试-bcc-2026" -->
+
+注意吴爱国老师最后讲授的根轨迹校正，虽然课时很少，只有一次课，也没有提交作业，但是 2026 春考试题中考到了一道，复习时不要漏掉根轨迹校正步骤。
+
+> 文 / [BCC](https://github.com/BCCHIT)，2026-11
+
 ## 关于实验
 <!-- TOML-SECTION: title="关于实验" -->
 
