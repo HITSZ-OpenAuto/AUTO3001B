@@ -10,9 +10,9 @@
     "hash": "70cfbce2174424cdcaee5f10365c7d2cbab4de69"
   },
   "README.md": {
-    "size": 3599,
-    "time": 1791961325,
-    "hash": "15c2539ce89ab7ffa395a9e8f86ff799c93b7489"
+    "size": 3906,
+    "time": 1795393369,
+    "hash": "13b994b2e777143fe62fa1564a3a638b1287a17c"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -203,6 +203,41 @@
     "size": 850856,
     "time": 1750989974,
     "hash": "1fe471f70c2fb32d2992510abc73710d6b22680e"
+  },
+  "assignments/2026_BCC/作业1.pdf": {
+    "size": 11015544,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "assignments/2026_BCC/作业2.pdf": {
+    "size": 10532693,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "assignments/2026_BCC/作业3.pdf": {
+    "size": 18638149,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "assignments/2026_BCC/作业4.pdf": {
+    "size": 11620552,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "assignments/2026_BCC/作业5.pdf": {
+    "size": 9240338,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "assignments/2026_BCC/作业6.pdf": {
+    "size": 20737679,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "assignments/2026_BCC/作业7.pdf": {
+    "size": 27086042,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
   },
   "exams/.gitkeep": {
     "size": 0,
@@ -424,6 +459,26 @@
     "time": 1751954936,
     "hash": "a8ed765425a0be054235a6f42451c39061a42662"
   },
+  "labs/2026_BCC/上机1.pdf": {
+    "size": 7564714,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "labs/2026_BCC/上机2.pdf": {
+    "size": 4617771,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "labs/2026_BCC/实验1.pdf": {
+    "size": 2461509,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
+  "labs/2026_BCC/实验2.pdf": {
+    "size": 1568662,
+    "time": 1795393349,
+    "hash": "5bc18272cf35e794740702994fd0c22a6609ddbd"
+  },
   "notes/.gitkeep": {
     "size": 0,
     "time": 1737691641,
@@ -455,8 +510,8 @@
     "hash": "7c10fec724b42d627c97c635cedf5b99d58b2b32"
   },
   "readme.toml": {
-    "size": 3655,
-    "time": 1773428005,
-    "hash": "7d72eb4ca58451c824dca348c11cab2544d96412"
+    "size": 3975,
+    "time": 1795393369,
+    "hash": "13b994b2e777143fe62fa1564a3a638b1287a17c"
   }
 }
