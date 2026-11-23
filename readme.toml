@@ -62,6 +62,10 @@ content = """
 """
 author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-06" }
 
+[[sections.items]]
+content = "注意吴爱国老师最后讲授的根轨迹校正，虽然课时很少，只有一次课，也没有提交作业，但是 2026 春考试题中考到了一道，复习时不要漏掉根轨迹校正步骤。"
+author = { name = "BCC", link = "https://github.com/BCCHIT", date = "2026-11" }
+
 [[sections]]
 title = "关于实验"
 
